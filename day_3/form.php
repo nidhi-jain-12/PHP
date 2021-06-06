@@ -9,7 +9,7 @@ Action: You can specify a page name where data will submit.
 -->
 <h1>Registration Form</h1>
 	<form method="post" action="process.php">
-	<table bg-color="grey">
+	<table>
 	<tr>
 		<td>Name:</td>
 		<td><input type="text" name="txt1" required/></td>
