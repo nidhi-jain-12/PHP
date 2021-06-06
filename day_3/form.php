@@ -44,10 +44,8 @@ Action: You can specify a page name where data will submit.
 	<td>
 	<input type="submit"/></td>
 	
-	
-		<td>
-	<input type="reset"/></td>
 	</tr>
+
 	</table>
 	</form>
 	</body>
