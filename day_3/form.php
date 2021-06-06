@@ -1,4 +1,4 @@
-<html>
+html>
 	<body>
 <!---
 GET: Not secure
@@ -29,7 +29,7 @@ Acion: You can specify a page name where data will submit.
 	
 	<tr>
 		<td>Select Time:</td>	
-		<td><input type="time" name="txt5"></td>
+		<td><input type="time" name="txt5"/></td>
 	</tr>
 
 	<tr>
@@ -40,8 +40,7 @@ Acion: You can specify a page name where data will submit.
 	<tr>
 	<td>
 	<input type="submit"/></td>
-		</tr>
-	
+	</tr>
 		
 	</table>
 	</form>
