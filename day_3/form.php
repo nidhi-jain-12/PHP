@@ -7,7 +7,7 @@ GET: Not secure
 POST: secure
 Action: You can specify a page name where data will submit.
 -->
-<h1>Registration Form</h1>
+<h1 >Registration Form</h1>
 	<form method="post" action="process.php">
 	<table>
 	<tr>
@@ -43,9 +43,8 @@ Action: You can specify a page name where data will submit.
 	<tr>
 	<td>
 	<input type="submit"/></td>
-	
 	</tr>
-
+	
 	</table>
 	</form>
 	</body>
