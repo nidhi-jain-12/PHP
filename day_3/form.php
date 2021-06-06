@@ -41,8 +41,7 @@ Action: You can specify a page name where data will submit.
 	</tr>
 	
 	<tr>
-	<td>
-	<input type="submit"/></td>
+	<td><input type="submit"/></td>
 	</tr>
 	
 	</table>
